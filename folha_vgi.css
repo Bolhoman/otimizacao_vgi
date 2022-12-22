@@ -1,0 +1,1019 @@
+
+a {
+
+  color: black;
+}
+
+p {
+
+  margin-bottom: 0 ;
+}
+
+
+
+
+
+input.elementor-field::placeholder {
+    color: #aaaaaa !important;
+    opacity: 1 !important;
+    font-weight: 300 !important;
+    font-style: italic;
+}
+
+.grecaptcha-badge { 
+visibility: hidden !important;
+	position: absolute !important;
+	z-index: -9999 !important;
+	width: 0 !important;
+	height: 0 !important;
+}
+.elementor-field-type-recaptcha_v3 {
+		
+	  margin-bottom: 0 !important;
+}
+
+
+
+
+span.face {
+    background: url(https://vgiagentes.com.br/wp-content/uploads/2022/03/facebook-square-brands.svg) !important;
+   
+}
+
+span.insta {
+    background: url(https://vgiagentes.com.br/wp-content/uploads/2022/03/instagram-brands.svg) !important;
+   
+}
+
+span.twt {
+    background: url(https://vgiagentes.com.br/wp-content/uploads/2022/03/twitter-brands.svg) !important;
+   
+}
+
+span.twt {
+    background: url(https://vgiagentes.com.br/wp-content/uploads/2022/03/twitter-brands.svg) !important;
+   
+}
+
+span.ytb {
+    background: url(https://vgiagentes.com.br/wp-content/uploads/2022/03/youtube-brands.svg) !important;
+   
+}
+
+span.vimeo {
+    background: url(https://vgiagentes.com.br/wp-content/uploads/2022/03/vimeo-v-brands.svg) !important;
+   
+}
+
+span.face, span.insta, span.twt, span.ytb,span.vimeo     {
+    
+    display: inline-block;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+    width: 12px !important;
+    height: 15px;
+    margin: 0 2px 0 0;
+    transform: translate(0px, 3px);
+}
+
+
+
+
+input:focus, textarea:focus {
+
+  outline: 0 !important;
+}
+
+
+
+.simplefavorite-button.active.loading {
+  background: yellow !important;
+  
+
+}
+
+
+
+
+
+.icone-idiomas:before {
+    content: "";
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-image: url(http://vgiagentes.com.br/wp-content/uploads/2020/04/icone-idiomas.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 7px;
+    left: 8px;
+}
+
+.icones-faixa-etaria-baby:before {
+	content: "";
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-image: url(http://vgiagentes.com.br/wp-content/uploads/2020/04/icon-idade-baby.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 7px;
+    left: 8px;
+
+}
+.bloco-etaria-mirim:before {
+
+	content: "";
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-image: url(http://vgiagentes.com.br/wp-content/uploads/2020/04/icon-idade-mirim.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 7px;
+    left: 8px;
+}
+.bloco-etaria-teen:before {
+
+	content: "";
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-image: url(http://vgiagentes.com.br/wp-content/uploads/2020/04/icon-idade-adolescente.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 7px;
+    left: 8px;
+}
+.bloco-etaria-jovem:before {
+	content: "";
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-image: url(http://vgiagentes.com.br/wp-content/uploads/2020/04/icon-idade-jovem.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 7px;
+    left: 8px;
+
+}
+.bloco-etaria-adulto:before {
+	content: "";
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-image: url(http://vgiagentes.com.br/wp-content/uploads/2020/04/icone-idiomas.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 7px;
+    left: 8px;
+
+}
+.bloco-etaria-meia:before {
+
+	content: "";
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-image: url(http://vgiagentes.com.br/wp-content/uploads/2020/04/icon-idade-meia-idade.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 7px;
+    left: 8px;
+}
+.bloco-etaria-senior:before {
+	content: "";
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-image: url(http://vgiagentes.com.br/wp-content/uploads/2020/04/icon-idade-senior.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 7px;
+    left: 8px;
+
+}
+
+.icone-genero:before {
+    content: "";
+    display: block;
+    height: 22px;
+    width: 22px;
+    background-image: url(http://vgiagentes.com.br/wp-content/uploads/2020/04/icone-genero.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 8px;
+    left: 9px;
+}
+
+
+
+.icone-altura:before {
+    content: "";
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-image: url(http://vgiagentes.com.br/wp-content/uploads/2020/04/icone-altura-v2-1.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 6px;
+    left: 9px;
+}
+
+
+.icone-idade:before {
+    content: "";
+    display: block;
+    height: 24px;
+    width: 24px;
+    background-image: url(http://vgiagentes.com.br/wp-content/uploads/2020/04/icone-idade-1.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 6px;
+    left: 9px;
+}
+
+
+
+#loginform input[type="text"], #loginform input[type="password"] {
+    box-shadow: none;
+    background: #ff0c35;
+    padding: 15px 20px !important;
+    border: none;
+}
+
+
+
+
+
+
+.nome-link {
+    color: white !important;
+    font-weight: 700 !important;
+    max-width: unset;
+    padding-right: 9px;
+}
+
+.capa-home {
+
+  overflow: hidden !important;
+}
+
+
+.fa-chevron-right:before{
+    
+    padding-left: 7px;
+}
+
+.fa-chevron-left:before{
+    
+    padding-right: 7px;
+}
+
+
+
+
+.current{
+
+    color: white !important;
+    background: #000000 !important;
+	border-color: #000000 !important;
+}
+
+.foto-artista img {
+	border-radius: 15px 0 0 15px !important;
+
+}
+
+.bloco-branco-fav {
+	border-radius: 0 15px 15px 0 !important;
+
+}
+
+.foto-artista {
+    
+    transition: all 600ms cubic-bezier(0.02, 0.79, 0.58, 1);
+    
+}
+
+.foto-artista:hover {
+	transform: scale(1.05);
+
+}
+
+.menu-item-link .fa-chevron-circle-down:before {
+    content: "\f13a";
+    position: absolute;
+    top: 10px;
+    right: 13px;
+}
+
+
+
+
+.texto-print {
+
+  display: none;
+}
+
+.categorias a {
+
+  color: #ababab;
+}
+
+
+
+
+.page-id-1508 .no-favorites {
+
+	visibility: hidden ;
+}
+
+.coluna-login {
+
+  max-width: 425px ;
+}
+
+.no-favorites:before {
+
+	display: block !important;
+    content: "Você não tem nenhum favorito...";
+    visibility: visible;
+    text-align: center;
+    font-size: 28px;
+    color: black;
+}
+
+.page-id-1508 .simplefavorite-button {
+    font-size: 12px !important;
+    float: right;
+    letter-spacing: 0;
+    border-radius: 10px;
+    padding: 0 !important;
+}
+
+
+.page-id-1508 .simplefavorite-button:hover {
+
+	text-decoration: none !important;
+	
+} 
+
+
+.page-id-1508 pre, .page-id-1508 fieldset, .page-id-1508 textarea, .page-id-1508 table, .page-id-1508 table *, .page-id-1508 hr{
+
+	border: none !important;
+	border-radius: 15px ;
+}
+
+.titulo-fav a, .bloco-branco-fav a {
+
+	color: #585858;
+}
+
+
+.titulo-fav {
+    font-size: 28px;
+    margin: 10px 0 0 !important;
+    padding-top: 0px;
+    transition: all 600ms cubic-bezier(0.02, 0.79, 0.58, 1);
+}
+
+
+
+
+
+.alinhador-central {
+    height: 150px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.bloco-fav p {
+
+	line-height: 1.3 !important;
+}
+
+
+.bloco-fav {
+
+	margin: 10px 0;
+}
+
+.bloco-branco-fav a:hover {
+
+	color: black;
+}
+
+
+.archive .simplefavorite-button {
+
+		padding: 0px;
+}
+
+
+.page-id-402 .simplefavorite-button {
+
+  padding: 0px;
+  background: transparent !important;
+}
+
+
+
+
+
+.elementor-1849 .elementor-element.elementor-element-989f181 .apply-filters__button {
+
+  position: absolute;
+    top: -3px;
+    width: 200px;
+    right: 0;
+}
+
+
+
+.print-link {
+    background: #a5a5a5;
+    padding: 15px 35px 18px;
+    border-radius: 10px;
+    float: right;
+    margin-top: 24px;
+    color: black;
+    font-weight: 400;
+    transition: all 400ms cubic-bezier(0.02, 0.91, 0.4, 1);
+}
+
+.print-link:hover {
+
+  background: white;
+  transform: scale(1.05);
+  -webkit-box-shadow: 0px 0px 0px 0px #DADADA !important; 
+  box-shadow: 0px 0px 0px 0px #DADADA !important;
+}
+
+.simplefavorite-button {
+    font-family: "Source Sans", Sans-serif;
+    font-size: 13px !important;
+    border-radius: 5px !important;
+    letter-spacing: 0px !important;
+    background: #ffffff !important;
+    color: black !important;
+    margin: 0 !important;
+    padding: 0px;
+    font-weight: 400;
+    transition: all 600ms cubic-bezier(0.02, 0.79, 0.58, 1);
+    opacity: 1 ;
+    width: 40px;
+    height: 40px;
+    outline: 0 !important;
+    
+}
+
+
+.fav-pagina .simplefavorite-button {
+  width: 70px;
+    height: 70px;
+
+}
+
+
+.simplefavorite-button:hover {
+
+	text-decoration: none !important ;
+	opacity: 1 ;
+  transform: scale(1.1);
+  -webkit-box-shadow: 0px 0px 0px 0px #DADADA !important; 
+  box-shadow: 0px 0px 0px 0px #DADADA !important;
+
+}
+
+.simplefavorite-button:hover .icone-core {
+  transform: scale(1.3);
+}
+
+.ativado {
+
+	color: #ff0c35 !important ;
+  -webkit-box-shadow: 0px 0px 0px 0px #DADADA !important; 
+  box-shadow: 0px 0px 0px 0px #DADADA !important;
+}
+
+.desativado {
+
+	color: #dadada !important ;
+  transition: all 450ms cubic-bezier(0.03, 1.04, 0.65, 1);
+ 
+
+}
+
+.desativado:hover {
+color: #ff0c35 !important;
+transform: scale(1.2);
+}
+
+
+
+.simplefavorite-button.active {
+
+	opacity: 1 !important ;
+	color: #a7a7a7 !important ;
+	transition: all 300ms cubic-bezier(0.02, 0.79, 0.58, 1);
+	background-size: 5px !important;
+	background-repeat: no-repeat !important;
+	background-position: center center !important;
+}
+
+.icone-core {
+    font-size: 30px;
+    transition: all 250ms cubic-bezier(0.02, 0.79, 0.58, 1);
+     
+    
+    
+}
+
+
+
+
+.simplefavorite-button.active:hover .icone-core {
+
+	color: #dadada  !important;
+  transform: scale(0.8);
+
+}
+
+
+td.bloco-branco-fav{
+    
+    padding: 0 30px !important;
+    
+}
+
+.bloco-linha-fav {
+
+	margin: 10px 0 !important ;
+}
+
+.icones-faixa-etaria {
+
+	height: 27px; 
+	display: inline; 
+	transform: translate(0, 6px);
+	position: absolute;
+}
+
+.bloco-etaria {
+
+	padding: 8px 14px 8px 35px;
+}
+
+.ano-nascimento {
+
+	display: block !important;
+	background: #ff0c35 !important ;
+}
+
+
+
+.logo-footer {
+
+	float: right;
+}
+
+.subtitulo-artistas p {
+    font-size: 29px !important;
+    padding: 50px 0 0 !important;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 5.6px;
+    }
+
+
+
+.itens-premiacao p {
+
+	color: #ff0c35 !important;
+}
+
+.icones-premiacao img {
+
+	    max-width: 22px;
+    margin-right: 10px;
+
+
+}
+
+.links-artistas p {
+
+	margin: 0 !important ;
+}
+
+
+
+div.the_champ_horizontal_sharing ul.the_champ_sharing_ul li {
+
+	    padding: 3px !important;
+}
+
+
+.the_champ_horizontal_sharing .theChampSharing {
+
+	    padding: 6px;
+	    transition: all 600ms cubic-bezier(0.02, 0.79, 0.58, 1);
+
+
+}
+
+.the_champ_horizontal_sharing .theChampSharing:hover {
+
+	transform: scale(1.3);
+} 
+
+
+
+
+
+
+.foto-de-capa img {
+
+	width: 100% !important ;
+	height: auto !important ;
+}
+
+
+
+@media only screen and (max-width: 1440px) {
+
+
+
+.titulo-artista h1 {
+
+	font-size: 65px !important;
+}
+
+
+
+
+}
+
+
+
+@media only screen and (max-width: 1281px) {
+
+.titulo-artista h1 {
+
+	font-size: 60px !important;
+
+}
+
+.coluna-foto-principal {
+
+	max-width: 45% ;
+}
+
+.coluna-2-entrada {
+
+	max-width: 55% !important;
+	width: 55% !important;
+}
+
+
+
+
+#submenu-artistas {
+
+	top: 50px !important;
+}
+
+
+
+
+}
+
+
+
+@media only screen and (max-width: 999px) {
+
+
+
+
+
+.coluna-foto-principal {
+
+	max-width: 100% ;
+}
+
+.coluna-2-entrada {
+
+	max-width: 100% !important;
+	width: 100% !important;
+}
+
+
+td.bloco-branco-fav {
+    padding: 0 30px !important;
+}
+
+.page-id-1508 .simplefavorite-button {
+    font-size: 10px !important;
+    float: right;
+    margin-right: 0;
+    margin-top: 10px;
+    display: block;
+    
+}
+
+.bloco-branco-fav p {
+
+	font-size: 12px ;
+}
+
+.titulo-fav {
+
+	font-size: 19px !important ;
+}
+
+
+
+
+
+}
+
+@media only screen and (max-width: 767px) {
+
+	header {
+
+	display: block !important ;
+}
+
+#wprmenu_bar, div#mg-wprm-wrap ul>li:hover>span.wprmenu_icon {
+
+	-webkit-tap-highlight-color: transparent !important ;
+}
+
+
+#wprmenu_bar .bar_logo {
+
+	    height: 45px;
+	    transform: translate(0, -4px);
+}
+
+
+.hamburger-box {
+
+	margin-top: 2px !important;
+    margin-right: 3px !important;
+}
+
+.hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+
+	    height: 2px;
+}
+
+.cbp-spmenu, .cbp-spmenu-push {
+
+	transition: all 800ms cubic-bezier(0.04, 1.04, 0.51, 0.98) !important ;
+
+
+}
+body{
+
+	    margin-top: 17px;
+}
+
+
+
+body:not(.rtl) .elementor-47 .elementor-element.elementor-element-73a533b {
+    left: -33px;
+    top: -10px;
+}
+
+
+td.foto-artista {
+
+	width: 50px !important;
+    position: absolute !important;
+    transform: translate(21px, 28px);
+}
+
+
+td.bloco-branco-fav {
+    padding: 10px 20px 19px 85px !important;
+}
+
+.foto-artista img {
+    border-radius: 50% !important;
+}
+.page-id-1508 .simplefavorite-button {
+    padding: 8px;
+    float: right;
+    margin-right: 0 !important;
+    margin-top: 9px!important;
+    bottom: 0;
+}
+
+
+.simplefavorites-clear {
+    font-size: 10px ;
+    background: #afafaf !important;
+    padding: 12px 28px;
+}
+
+
+.titulo-fav {
+    font-size: 17px !important;
+    margin: 23px 0 0 !important;
+}
+
+
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 480px) {
+
+
+
+
+.print-link  {
+
+  width: 100% ;
+  text-align: center;
+  
+}
+
+
+.elementor-1849 .elementor-element.elementor-element-989f181 .apply-filters__button {
+
+  position: relative;
+    top: 0;
+    width: 100%;
+    right: 0;
+
+}
+
+
+.icone-core {
+    font-size: 20px;
+}
+
+.simplefavorite-button {
+
+	padding: 10px ; 
+}
+
+
+
+
+.titulo-quem-somos p {
+    line-height: 0.9;
+    padding-bottom: 0 !important;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+}
+
+
+
+
+
+
+.bloco-links:hover .col-ico .elementor-widget-wrap.elementor-element-populated {
+    background: #ffffff !important;
+}
+
+
+.jet-nav__sub {
+	z-index: 999999 !important ;
+}
+
+td.acf-fields {
+    padding: 20px !important;
+}
+
+.img-artst {
+	
+	transition: all 350ms cubic-bezier(0, 1.15, 0.58, 1.29) !important;
+}
+
+.img-artst:hover {
+	transform: scale(1.04) ;
+}
+
+
+
+[type=button], [type=submit], button {
+	border: none ;
+	color: unset ;
+}
+
+a {
+	color: unset;
+}
+
+.elementor-5726 .elementor-element.elementor-element-5726 .jet-checkboxes-list__decorator {
+	position: absolute ;
+	top: 1px ;
+}
+
+.elementor-5726 .elementor-element.elementor-element-5726 .jet-checkboxes-list__label {
+	
+	    margin-left: 25px !important;
+}
+
+.jet-checkboxes-list .jet-checkboxes-list__item .jet-checkboxes-list__label {
+	vertical-align: top;
+	
+}
+.paged .busca-artistas {
+		
+	display: none ;
+	
+	
+}
+
+.paged .coluna-dos-filtros:after {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    content: "";
+    background: #fff;
+    z-index: 99;
+    opacity: 0.5;
+}
+
+
+.aviso-filtros {
+	
+	display: none ;
+}
+
+
+
+.paged .aviso-filtros {
+	
+	display: block !important ;
+}
+
+.jet-checkboxes-list__decorator {
+	margin-top: -6px !important;
+}
+
+.elementor-5726 .elementor-element.elementor-element-5726 .jet-checkboxes-list__decorator {
+    position: absolute !important;
+    top: 6px !important;
+}
+
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+::-webkit-scrollbar-thumb {
+  background: #141414;
+  border: 0px solid #c43b3b;
+  border-radius: 20px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #000000;
+}
+::-webkit-scrollbar-thumb:active {
+  background: #000000;
+}
+::-webkit-scrollbar-track {
+  background: #666666;
+  border: 0px none #292929;
+  border-radius: 0px;
+}
+::-webkit-scrollbar-track:hover {
+  background: #737373;
+}
+::-webkit-scrollbar-track:active {
+  background: #a3a3a3;
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
